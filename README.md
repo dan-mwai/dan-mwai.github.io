@@ -1,33 +1,24 @@
 Strategy and Operations leader with over 8 years of experience leading growth programs. Leads cross-functional teams across Product, Store Operations, and Tech in translating strategy into measurable improvements in customer experience.
 
-What I Do
-Strategy and Growth
-Analytics and Decision Support
-Operaions and Execution
-
-Selected Work
-Customer Experience Intelligence            
-Marketplace Unit Economics 
+## Selected Work
+Customer Experience Intelligence
+Marketplace Unit Economics
 Inventory Operations Control Tower
 Pricing Strategy Simulator
 
-Impact
-
-Experience
-Carolina BioOncology                     
-Walmart                                    
+## Experience
+Carolina BioOncology              
+Walmart                        
 TEC Services                                
 
-Education
+## Education
 MBA • MS • BS                                
 
-Tools
+## Tools
 Tableau • SQL • Financial Modeling • Agile
 
-Let's Connect
+## Let's Connect 
 LinkedIn • GitHub • Tableau • Email 
-
-
 
 <!--
 **DanMwaiWorks/DanMwaiWorks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

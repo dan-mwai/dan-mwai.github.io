@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there. What is going on today? 👋
 
 <!--
 **DanMwaiWorks/DanMwaiWorks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

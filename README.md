@@ -1,7 +1,4 @@
-## Strategy and Operations leader with over 8 years of experience leading growth programs. 
-## Leads cross-functional teams across Product, Store Operations, and Tech in translating strategy into measurable improvements in customer experience. 
-## Developed prescriptive analytics and recommendations driving 10% YoY CSAT improvement for large-scale retail and e-commerce. 
-## Bachelors in Engineering, MS in Project Management and UNC Chapel Hill MBA.
+## Strategy and Operations leader 
 
 
 

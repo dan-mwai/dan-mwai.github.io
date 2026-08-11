@@ -1,6 +1,6 @@
 **Strategy. Operations. Growth.**
 <br>
-Leading cross-functional teams across product, operations, and tech in turning business strategy into elevated customer experiences.
+Leading cross-functional teams across product, operations, and tech to turn business strategy into measurable improvements in customer experience.
 <br>
 ### Selected Work
 Customer Experience Intelligence<br>

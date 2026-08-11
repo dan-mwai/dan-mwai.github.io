@@ -1,4 +1,6 @@
-Strategy and Operations leader with over 8 years of experience leading growth programs. Leads cross-functional teams across Product, Operations and Tech in translating strategy into measurable improvements in customer experience.
+**Strategy. Operations. Growth.**
+<br>
+Leading cross-functional teams across product, operations, and tech in turning business strategy into elevated customer experiences.
 <br>
 ### Selected Work
 Customer Experience Intelligence<br>

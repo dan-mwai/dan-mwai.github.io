@@ -2,7 +2,8 @@
 <br>
 Leading cross-functional teams across product, operations, and tech to turn business strategy into measurable improvements in customer experience.
 <br>
-### Selected Work
+
+### Selected Work in Strategy, Decision Support and Operations
 Customer Experience Intelligence<br>
 Marketplace Unit Economics<br>
 Inventory Operations Control Tower<br>
@@ -24,6 +25,11 @@ LinkedIn • GitHub • Tableau • Email
 
 <!--
 **DanMwaiWorks/DanMwaiWorks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+### What I Do
+**Strategy** - ● Growth Frameworks ● KPI Management ● Cross-Functional Alignment<br>
+**Decision Support** - Data Modeling | Predictive Analysis | Performance Reviews<br>
+**Operations** - Cross-Functional Roadmaps | Process Improvement | ERP Systems Architecture
 
 Here are some ideas to get you started:
 

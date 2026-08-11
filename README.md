@@ -1,22 +1,22 @@
 Strategy and Operations leader with over 8 years of experience leading growth programs. Leads cross-functional teams across Product, Operations and Tech in translating strategy into measurable improvements in customer experience.
-
+<br>
 ### Selected Work
 Customer Experience Intelligence<br>
 Marketplace Unit Economics<br>
 Inventory Operations Control Tower<br>
 Pricing Strategy Simulator<br>
-
+<br>
 ### Experience
 Carolina BioOncology             
 Walmart                      
 TEC Services                                
-
+<br>
 ### Education
 MBA • MS • BS                                
-
+<br>
 ### Tools
 Tableau • SQL • Financial Modeling • Agile
-
+<br><br>
 ### Let's Connect 
 LinkedIn • GitHub • Tableau • Email 
 

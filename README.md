@@ -11,15 +11,15 @@ I lead cross-functional teams across product, operations, and tech to turn busin
       <td style="width: 50%; border: none; background: transparent; padding: 0 10px 20px 0; vertical-align: top;">
         <a href="{{ site.baseurl }}/cases/cx-intelligence" style="display: block; box-sizing: border-box; text-decoration: none; color: inherit; border: 1px solid #e1e4e8; border-radius: 6px; padding: 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.05); height: 195px; overflow: hidden;">
           <div style="font-size: 24px; margin-bottom: 8px;">📊</div>
-          <h3 style="margin: 0 0 8px 0; font-size: 1.2rem; color: #1e293b; border-bottom: none; padding-bottom: 0; line-height: 1.3;">Customer Experience Intelligence</h3>
+          <h3 style="margin: 0 0 8px 0; font-size: 1.2rem; color: #1e293b; border-bottom: none; padding-bottom: 0; line-height: 1.3;">Retail CX Intelligence Hub</h3>
           <p style="margin: 0; font-size: 0.9rem; color: #64748b; line-height: 1.4;">Translating touchpoints into journey optimizations.</p>
         </a>
       </td>
       <td style="width: 50%; border: none; background: transparent; padding: 0 0 20px 10px; vertical-align: top;">
         <a href="{{ site.baseurl }}/cases/marketplace-economics" style="display: block; box-sizing: border-box; text-decoration: none; color: inherit; border: 1px solid #e1e4e8; border-radius: 6px; padding: 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.05); height: 195px; overflow: hidden;">
           <div style="font-size: 24px; margin-bottom: 8px;">📈</div>
-          <h3 style="margin: 0 0 8px 0; font-size: 1.2rem; color: #1e293b; border-bottom: none; padding-bottom: 0; line-height: 1.3;">Marketplace Unit Economics</h3>
-          <p style="margin: 0; font-size: 0.9rem; color: #64748b; line-height: 1.4;">Modeling margin opportunities across core tech channels.</p>
+          <h3 style="margin: 0 0 8px 0; font-size: 1.2rem; color: #1e293b; border-bottom: none; padding-bottom: 0; line-height: 1.3;">Last Mile Delivery Lab</h3>
+          <p style="margin: 0; font-size: 0.9rem; color: #64748b; line-height: 1.4;">Modeling margin opportunities across core channels.</p>
         </a>
       </td>
     </tr>
@@ -27,15 +27,15 @@ I lead cross-functional teams across product, operations, and tech to turn busin
       <td style="width: 50%; border: none; background: transparent; padding: 0 10px 0 0; vertical-align: top;">
         <a href="{{ site.baseurl }}/cases/inventory-control-tower" style="display: block; box-sizing: border-box; text-decoration: none; color: inherit; border: 1px solid #e1e4e8; border-radius: 6px; padding: 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.05); height: 195px; overflow: hidden;">
           <div style="font-size: 24px; margin-bottom: 8px;">🛠</div>
-          <h3 style="margin: 0 0 8px 0; font-size: 1.2rem; color: #1e293b; border-bottom: none; padding-bottom: 0; line-height: 1.3;">Inventory Operations Control Tower</h3>
+          <h3 style="margin: 0 0 8px 0; font-size: 1.2rem; color: #1e293b; border-bottom: none; padding-bottom: 0; line-height: 1.3;">Inventory Ops Control Tower</h3>
           <p style="margin: 0; font-size: 0.9rem; color: #64748b; line-height: 1.4;">Centralizing multi-system data for supply visibility.</p>
         </a>
       </td>
       <td style="width: 50%; border: none; background: transparent; padding: 0 0 0 10px; vertical-align: top;">
         <a href="{{ site.baseurl }}/cases/pricing-simulator" style="display: block; box-sizing: border-box; text-decoration: none; color: inherit; border: 1px solid #e1e4e8; border-radius: 6px; padding: 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.05); height: 195px; overflow: hidden;">
           <div style="font-size: 24px; margin-bottom: 8px;">💡</div>
-          <h3 style="margin: 0 0 8px 0; font-size: 1.2rem; color: #1e293b; border-bottom: none; padding-bottom: 0; line-height: 1.3;">Pricing Strategy Simulator</h3>
-          <p style="margin: 0; font-size: 0.9rem; color: #64748b; line-height: 1.4;">Simulating revenue elasticities to drive product decisions.</p>
+          <h3 style="margin: 0 0 8px 0; font-size: 1.2rem; color: #1e293b; border-bottom: none; padding-bottom: 0; line-height: 1.3;">AI-Powered Operations Tools</h3>
+          <p style="margin: 0; font-size: 0.9rem; color: #64748b; line-height: 1.4;">Tracking elasticities to drive product decisions.</p>
         </a>
       </td>
     </tr>

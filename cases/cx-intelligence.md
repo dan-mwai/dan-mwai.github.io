@@ -4,10 +4,10 @@ title: Customer Experience Intelligence - Case Study
 permalink: /cases/cx-intelligence
 ---
 
-# Customer Experience Intelligence: Business Case
+# Customer Experience Intelligence Hub
 
 ## 🗒 Executive Summary
-[Write a 2-3 sentence overview of the business problem, your cross-functional approach, and the final measurable outcome.]
+What drives customer dissatisfaction in omnichannel retail—and where should management intervene?
 
 ---
 

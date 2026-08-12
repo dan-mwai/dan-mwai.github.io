@@ -4,11 +4,38 @@ Leading cross-functional teams across product, operations, and tech to turn busi
 <br>
 
 ### Selected Work
-Customer Experience Intelligence<br>
-Marketplace Unit Economics<br>
-Inventory Operations Control Tower<br>
-Pricing Strategy Simulator<br>
-<br>
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between; margin-top: 25px;">
+
+  <!-- Card 1: Customer Experience Intelligence -->
+  <a href="{{ site.baseurl }}/cases/cx-intelligence" style="flex: 1 1 calc(50% - 10px); min-width: 280px; text-decoration: none; color: inherit; border: 1px solid #e1e4e8; border-radius: 6px; padding: 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.05); transition: transform 0.2s, box-shadow 0.2s;" onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.1)'" onmouseout="this.style.transform='none'; this.style.boxShadow='0 1px 3px rgba(0,0,0,0.05)'">
+    <div style="font-size: 24px; margin-bottom: 8px;">📊</div>
+    <h3 style="margin: 0 0 8px 0; font-size: 1.2rem; color: #1e293b;">Customer Experience Intelligence</h3>
+    <p style="margin: 0; font-size: 0.9rem; color: #64748b; line-height: 1.4;">Translating touchpoint data into measurable journey optimizations.</p>
+  </a>
+
+  <!-- Card 2: Marketplace Unit Economics -->
+  <a href="{{ site.baseurl }}/cases/marketplace-economics" style="flex: 1 1 calc(50% - 10px); min-width: 280px; text-decoration: none; color: inherit; border: 1px solid #e1e4e8; border-radius: 6px; padding: 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.05); transition: transform 0.2s, box-shadow 0.2s;" onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.1)'" onmouseout="this.style.transform='none'; this.style.boxShadow='0 1px 3px rgba(0,0,0,0.05)'">
+    <div style="font-size: 24px; margin-bottom: 8px;">📈</div>
+    <h3 style="margin: 0 0 8px 0; font-size: 1.2rem; color: #1e293b;">Marketplace Unit Economics</h3>
+    <p style="margin: 0; font-size: 0.9rem; color: #64748b; line-height: 1.4;">Modeling margin expansion opportunities across core tech channels.</p>
+  </a>
+
+  <!-- Card 3: Inventory Operations Control Tower -->
+  <a href="{{ site.baseurl }}/cases/inventory-control-tower" style="flex: 1 1 calc(50% - 10px); min-width: 280px; text-decoration: none; color: inherit; border: 1px solid #e1e4e8; border-radius: 6px; padding: 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.05); transition: transform 0.2s, box-shadow 0.2s;" onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.1)'" onmouseout="this.style.transform='none'; this.style.boxShadow='0 1px 3px rgba(0,0,0,0.05)'">
+    <div style="font-size: 24px; margin-bottom: 8px;">🛠</div>
+    <h3 style="margin: 0 0 8px 0; font-size: 1.2rem; color: #1e293b;">Inventory Operations Control Tower</h3>
+    <p style="margin: 0; font-size: 0.9rem; color: #64748b; line-height: 1.4;">Centralizing multi-system data for end-to-end supply visibility.</p>
+  </a>
+
+  <!-- Card 4: Pricing Strategy Simulator -->
+  <a href="{{ site.baseurl }}/cases/pricing-simulator" style="flex: 1 1 calc(50% - 10px); min-width: 280px; text-decoration: none; color: inherit; border: 1px solid #e1e4e8; border-radius: 6px; padding: 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.05); transition: transform 0.2s, box-shadow 0.2s;" onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.1)'" onmouseout="this.style.transform='none'; this.style.boxShadow='0 1px 3px rgba(0,0,0,0.05)'">
+    <div style="font-size: 24px; margin-bottom: 8px;">💡</div>
+    <h3 style="margin: 0 0 8px 0; font-size: 1.2rem; color: #1e293b;">Pricing Strategy Simulator</h3>
+    <p style="margin: 0; font-size: 0.9rem; color: #64748b; line-height: 1.4;">Simulating revenue elasticities to drive predictive product decisions.</p>
+  </a>
+
+</div>
+
 ### Experience
 Carolina BioOncology             
 Walmart                      

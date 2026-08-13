@@ -44,7 +44,7 @@ I lead cross-functional teams across product, operations, and tech to turn busin
 
 
 ### Experience
-Retail - Walmart • TEC Services
+Retail and e-commerce - Walmart • TEC Services
 Healthcare - Carolina BioOncology             
  
 <br>

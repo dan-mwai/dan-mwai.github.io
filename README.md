@@ -48,8 +48,14 @@ MBA • MS • BS
 ### Tools
 Tableau • SQL • Financial Modeling • Agile
 
-### Let's Connect 
-LinkedIn • GitHub • Tableau Public • Email 
+### Let's Connect
+<a href="https://tableau.com" target="_blank" rel="noopener noreferrer">public.tableau.com/app/profile/dan.mwai</a><br>
+<a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">linkedin.com/in/dan-mwai</a><br>
+<a href="https://github.io">dan-mwai.github.io</a><br>
+<a href="mailto:danmwai2000@gmail.com">danmwai2000@gmail.com</a><br>
+
+
+
 
 <!--
 **DanMwaiWorks/DanMwaiWorks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

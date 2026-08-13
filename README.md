@@ -49,12 +49,18 @@ MBA • MS • BS
 Tableau • SQL • Financial Modeling • Agile
 
 ### Let's Connect
-<a href="https://tableau.com" target="_blank" rel="noopener noreferrer">public.tableau.com/app/profile/dan.mwai</a><br>
-<a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">linkedin.com/in/dan-mwai</a><br>
-<a href="https://github.io">dan-mwai.github.io</a><br>
-<a href="mailto:danmwai2000@gmail.com">danmwai2000@gmail.com</a><br>
+* 📊 [public.tableau.com/app/profile/dan.mwai](https://tableau.com)
+* 💼 [linkedin.com/in/dan-mwai](https://linkedin.com)
+* 🌐 [dan-mwai.github.io](https://github.io)
+* ✉️ [danmwai2000@gmail.com](mailto:danmwai2000@gmail.com)
 
 
+
+### Let's Connect
+[public.tableau.com/app/profile/dan.mwai](https://tableau.com)<br>
+[linkedin.com/in/dan-mwai](https://linkedin.com)<br>
+[dan-mwai.github.io](https://github.io)<br>
+[danmwai2000@gmail.com](mailto:danmwai2000@gmail.com)<br>
 
 
 <!--

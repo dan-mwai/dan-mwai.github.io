@@ -44,9 +44,9 @@ I lead cross-functional teams across product, operations, and tech to turn busin
 
 
 ### Experience
-Carolina BioOncology             
-Walmart                      
-TEC Services                                
+Retail - Walmart • TEC Services
+Healthcare - Carolina BioOncology             
+ 
 <br>
 ### Education
 MBA • MS • BS                                

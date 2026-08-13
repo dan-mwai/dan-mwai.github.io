@@ -45,15 +45,14 @@ I lead cross-functional teams across product, operations, and tech to turn busin
 
 ### Experience
 Retail and e-commerce - Walmart • TEC Services
-Healthcare - Carolina BioOncology             
- 
+Healthcare BioTech - Carolina BioOncology
 <br>
 ### Education
 MBA • MS • BS                                
-<br>
+
 ### Tools
 Tableau • SQL • Financial Modeling • Agile
-<br><br>
+
 ### Let's Connect 
 LinkedIn • GitHub • Tableau Public • Email 
 

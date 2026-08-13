@@ -1,8 +1,3 @@
-**Strategy. Operations. Growth.**
-<br>
-I lead cross-functional teams across product, operations, and tech to turn business strategy into measurable improvements in customer experience.
-<br>
-
 ### Selected Work
 
 <div style="width: 100%; margin: 25px 0 35px 0; box-sizing: border-box;">

@@ -28,7 +28,7 @@ I lead cross-functional teams across product, operations, and tech to turn busin
         <a href="{{ site.baseurl }}/cases/inventory-control-tower" style="display: block; box-sizing: border-box; text-decoration: none; color: inherit; border: 1px solid #e1e4e8; border-radius: 6px; padding: 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.05); height: 195px; overflow: hidden;">
           <div style="font-size: 24px; margin-bottom: 8px;">🛠</div>
           <h3 style="margin: 0 0 8px 0; font-size: 1.2rem; color: #1e293b; border-bottom: none; padding-bottom: 0; line-height: 1.3;">Inventory Ops Control Tower</h3>
-          <p style="margin: 0; font-size: 0.9rem; color: #64748b; line-height: 1.4;">Centralizing multi-system data</p>
+          <p style="margin: 0; font-size: 0.9rem; color: #64748b; line-height: 1.4;">Centralizing data</p>
         </a>
       </td>
       <td style="width: 50%; border: none; background: transparent; padding: 0 0 0 10px; vertical-align: top;">

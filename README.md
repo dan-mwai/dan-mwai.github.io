@@ -1,4 +1,4 @@
-### Selected Work
+### Featured Work
 
 <div style="width: 100%; margin: 25px 0 35px 0; box-sizing: border-box;">
   <table style="width: 100%; border-collapse: collapse; border: none; background: transparent; margin: 0; table-layout: fixed;">

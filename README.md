@@ -49,10 +49,11 @@ MBA • MS • BS
 Tableau • SQL • Financial Modeling • Agile
 
 ### Let's Connect
-[public.tableau.com/app/profile/dan.mwai](https://public.tableau.com/app/profile/dan.mwai/vizzes)<br>
-[dan-mwai.github.io](https://dan-mwai.github.io)<br>
-[linkedin.com/in/dan-mwai](https://linkedin.com/in/dan-mwai)<br>
 [danmwai2000@gmail.com](mailto:danmwai2000@gmail.com)<br>
+[public.tableau.com/app/profile/dan.mwai](https://public.tableau.com/app/profile/dan.mwai/vizzes)<br>
+[github.com/dan-mwai](https://gist.github.com/dan-mwai)<br>
+[linkedin.com/in/dan-mwai](https://linkedin.com/in/dan-mwai)<br>
+
 
 
 <!--

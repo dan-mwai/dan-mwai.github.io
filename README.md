@@ -50,7 +50,7 @@ Tableau • SQL • Financial Modeling • Agile
 
 ### Let's Connect
 [danmwai2000@gmail.com](mailto:danmwai2000@gmail.com)<br>
-[public.tableau.com/app/profile/dan.mwai](https://public.tableau.com/app/profile/dan.mwai/vizzes)<br>
+[public.tableau.com/dan.mwai](https://public.tableau.com/app/profile/dan.mwai/vizzes)<br>
 [github.com/dan-mwai](https://gist.github.com/dan-mwai)<br>
 [linkedin.com/in/dan-mwai](https://linkedin.com/in/dan-mwai)<br>
 

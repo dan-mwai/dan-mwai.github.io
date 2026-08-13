@@ -39,8 +39,8 @@
 
 
 ### Experience
-Retail and e-commerce - Walmart • TEC Services
-<br>Healthcare and BioTech - Carolina BioOncology Institute
+Retail & E-commerce - Walmart • TEC Services
+<br>Healthcare & BioTech - Carolina BioOncology Institute
 
 ### Education
 MBA • MS • BS                                

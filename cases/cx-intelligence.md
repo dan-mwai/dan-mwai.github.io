@@ -15,6 +15,7 @@ What drives customer dissatisfaction in omnichannel retail—and where should ma
 * **The Challenge:** [Describe what was broken across Product or Tech channels]
 * **The Execution:** [Detail how you led the cross-functional team to align the systems]
 * **The Metrics:** [State the specific percentage or dollar impact driven by this update]
+
 ---
 
 ## 📊 Deep Dive & Artifacts
